@@ -1,4 +1,4 @@
-# InstagramDownload - [Instagram photo and Video Downloader](https://downloadgram.com)
+# InstagramDownload - [Instagram photo and Video Downloader](https://keeppost.com)
 
 [![Travis](https://travis-ci.org/Ayesh/InstagramDownload.svg?branch=4.x&style=flat-square)](https://travis-ci.org/Ayesh/InstagramDownload)
 
@@ -17,7 +17,7 @@ currently not working. A new version 7 is in the works, but there is no ETA yet.
 *Old and minimally supported versions*
  - [4.x branch with for PHP ^7.3](https://github.com/Ayesh/InstagramDownload/tree/4.x)
 
-I wrote this class mainly for my [online Instagram photo, video and IGTV downloader](https://downloadgram.com), but I thought share this piece for your own extensions.
+I wrote this class mainly for my [online Instagram photo, video and IGTV downloader](https://keeppost.com), but I thought share this piece for your own extensions.
 
   - Validates Instagram URL (domain validation, URL path validation).
   - Uses OG properties to detect the image and video URL.
